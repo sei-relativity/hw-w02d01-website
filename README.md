@@ -2,7 +2,7 @@
 
 ## Introduction
 
-###Description
+### Description
 
 
 Imagine it's 13 weeks from now, and you've started taking on work as a freelance developer.  So far you've done work for (imaginary) companies like Relaxr, Startup Matchmaker, and Citipix, and you want to showcase the web apps and landing pages you've built for them.  Take what you've learned from class and the pre-work and build a portfolio site, using HTML and simple CSS, that showcases your hard work from the past 13 months.
