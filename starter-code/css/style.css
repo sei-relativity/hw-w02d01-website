@@ -1,0 +1,52 @@
+body {
+    /* Set margin to 0 pixels on all sides */
+    margin: 30px auto;
+    /* Set line height to be 1.5 times larger than default */  
+    line-height: 1.5;
+}
+body {
+    max-width: 80%;
+    margin: auto;
+    align-content: center;
+}
+p{
+    font-size: 25px;
+}
+
+main{
+    max-width: 95%;
+    margin: auto;
+
+
+}
+.txtCnter{
+    text-align: center;
+    margin: 50px;
+}
+
+.bordLine{
+    border: solid 5px black;
+}
+
+.list-item{
+    /* to remove the dot */
+    list-style: none;
+    /* to make the list in one line */
+    display: inline; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border: 2px solid powderblue; 
+    padding: 10px;
+}
+.list-item:hover {
+    border: 2px solid #801638;
+    background: gray;
+    padding: 10px;
+}
+
+img #a {
+    width:200px;
+    height:200px;
+    margin-left:25px;
+}
