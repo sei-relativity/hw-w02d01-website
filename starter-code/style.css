@@ -1,0 +1,116 @@
+body{
+  background-color:rgba(186,219,211,0.5);
+  border-top: 5px solid #525c69;
+  margin-top:2em;
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+/*background-image: url(https://www.w3schools.com/css/img_mountains.jpg);
+https://www.yallanet.net/wp-content/uploads/Savin-NY-Website-Background-Web-1-1024x576-750x430.jpg
+http://www.ridgedesign.ie/wp-content/uploads/2011/02/Ridge-Design-Website-Design-Background-300x171.jpg
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+opacity: 0.5;*/
+
+hr.top{
+  border-top: 1px solid #000000;
+  margin-top: 10px;
+}
+hr.bottom{
+  border-top: 1px solid #000000;
+}
+h1{
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Noto Serif SC', serif;
+  padding-top: 5px;
+  color:#525c69;
+}
+.portfolio{
+font-style: normal;
+text-decoration: none;
+}
+.soicalmedia{
+  color: black;
+  text-align:center;
+  font-size: 20px;
+  font-family: 'Noto Serif SC', serif;
+  padding-top: 15px;
+  text-decoration: none;
+  color:#373d46;
+
+}
+
+h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Noto Serif SC', serif;
+  color:#525c69;
+
+}
+
+.parargraph-title{
+  text-align: left;
+  font-size: 20px;
+  font-family: 'Noto Serif SC', serif;
+  font-variant:small-caps;
+  font-weight: bold;
+  padding-top: 100px;
+  color:#373d46;
+
+}
+.Ex-Paragraph {
+  font-size: 25px;
+  font-family: 'Noto Serif SC', serif;
+  font-variant:small-caps;
+  font-weight: bold;
+  padding-top: 35px;
+  text-decoration: underline;
+  color:#373d46;
+}
+p{
+  font-size: 18px;
+  font-family: 'Krub', sans-serif;
+}
+.expriences{
+  font-family: 'Krub', sans-serif;
+  font-size: 18px;
+  color:#252B2A;
+}
+.main{
+  display: flex;
+}
+
+.photo{
+  width: 200px;
+  height: 200px;
+  padding-bottom: 70px;
+  padding-top: 70px;
+  border-radius: 50%;
+}
+.The-3-photos{
+  display: block;
+  width: 450px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 50px;
+  position:relative;
+  border-radius: 10%;
+}
+
+h4, h5{
+  font-size: 20px;
+  font-family: 'Noto Serif SC', serif;
+  text-decoration: underline;
+  margin-bottom: 20px;
+  color:#373d46;
+
+}
+.font-size-small{
+  font-size: 15px;
+}
