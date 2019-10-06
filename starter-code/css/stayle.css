@@ -1,0 +1,98 @@
+header {
+    border-top: 8px solid black;
+    margin: 20px 10px 10px 10px;
+    text-align: center;
+    height: 100px;
+    padding-top: 10px;
+    color: #851459;
+}
+
+body {
+    font-family: 'Mansalva', cursive;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background: #230653;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/4k.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    height: 500px;
+    margin: 10px 20px;
+    padding: 40px;
+    color: #14a098;
+}
+
+nav {
+    font-size: 20px;
+    color: #cccccc;
+}
+
+h2 {
+    font-weight: bolder;
+    display: inline;
+    font-size: 30px;
+    color: #B91464;
+}
+
+#profilePic {
+    float: right;
+    right: 0;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.aboutme p {
+    font-size: 25px;
+    font-weight: 500px;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 8px solid black;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    float: left;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 10px 10px 0px 10px;
+    background: transparent;
+}
+
+a {
+    color: #621150;
+}
+
+.portfolio {
+    height: auto;
+}
+
+.portfolio img {
+    margin: 20px 20px 20px 200px;
+}
+
+li {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.portfolio p {
+    font-size: 18px;
+}
