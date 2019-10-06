@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+header{
+    padding: 90px 0px 0px 0px;
+    border-top : 3px solid black;
+    border-bottom : 1px solid black
+}
+.pageHead{
+    display: inline;
+    font-size: 30px;
+}
+h1{
+    font-size: 60 px;
+}
+li{
+    list-style: none;
+    display: inline;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+footer{
+    border-bottom: 1px solid black;
+}
+.content {
+    display: inline-block;
+    position: relative;
+    margin: 1px;
+
+    
+}
+img{
+    text-align: right;
+}
+.breif{
+    font-size: 20px;
+    color: cadetblue;
+}
+.portCont{
+    font-size: 30px;
+}
