@@ -1,5 +1,5 @@
 html {
-    max-width: 800px;
+    max-width: 700px;
     margin: auto;
    border-top: 5px solid black;
    border-bottom: 5px solid black; 
@@ -28,17 +28,28 @@ li {
     border-right:solid 3px black;
 }
 
+#aboutMe p {
+    max-width: 400px;
+}
+
 #photoPortrait {
     float: right;
+    position: relative;
+    bottom: 100px;
 }
 
 a {
     padding: 15px;
     text-decoration: none;
     font-size: 20px;
-    border-right: 1px solid black;
+    
 }
 
 a:hover{
     border-bottom: 2px solid black;
+}
+
+#portfolio {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
