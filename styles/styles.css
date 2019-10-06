@@ -1,0 +1,44 @@
+html {
+    max-width: 800px;
+    margin: auto;
+   border-top: 5px solid black;
+   border-bottom: 5px solid black; 
+}
+
+
+#aboutMe {
+    display: inline-flex;
+}
+header{
+    align-content: center;
+}
+
+img {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+li {
+    list-style: none;
+}
+#socialMedia li{
+    display: inline;
+    font-size: 20px;
+    padding:10px;
+    border-right:solid 3px black;
+}
+
+#photoPortrait {
+    float: right;
+}
+
+a {
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    border-right: 1px solid black;
+}
+
+a:hover{
+    border-bottom: 2px solid black;
+}
