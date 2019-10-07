@@ -1,0 +1,25 @@
+body {
+    background: rgb(4, 196, 180);
+
+}
+
+img {
+    width: 900px;
+    height: 100px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+
+}
+
+ul {
+    background-color: skyblue;
+    text-decoration: underline;
+
+}
+
+.pcss {
+    font: red;
+}
