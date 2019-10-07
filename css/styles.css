@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    font-style: italic;
+    border: 3px solid green;
+}
+body{
+    background-color: transparent;
+}
+h2{
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+br{
+    padding: 10px;
+}
+
+h4{
+    color: purple;
+}
+
+p{
+    font-weight: bold;
+}
