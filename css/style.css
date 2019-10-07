@@ -1,0 +1,51 @@
+body {
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(19, 53, 146, 0.842);
+    background-color: black;
+    text-align: center;
+}
+
+hr {
+    background-color: rgba(rgba(110, 87, 87, 0.747), green, blue, alpha);
+    width: 26px;
+}
+
+.classSub {
+    background-color: rgba(110, 87, 87, 1);
+    width: 20px;
+}
+
+header {
+    margin: auto;
+    color: red;
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    font-size: 28px;
+    font-style: italic;
+    text-decoration: none;
+    border: 2px solid green;
+    text-align: left;
+    display: inline-block;
+}
+
+img {
+    float: right;
+    align-self: auto;
+}
+
+h2:hover {
+    color: red;
+    border-color: blue;
+}
+
+p {
+    text-align: left;
+}
+
+.mainPage {
+   
+}
