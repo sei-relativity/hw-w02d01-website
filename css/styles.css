@@ -1,0 +1,28 @@
+
+body {
+    background-color: #DBE9EE;
+};
+
+h1 {
+font-family: 'Oswald', sans-serif;
+    color: #466995;
+
+}
+h2 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color:black;
+};
+p {
+    border: 1px solid #466995;
+    margin: 20px;
+    color: #466995;
+   
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    padding: 30px;
+a {
+    color: red;
+    font-display: serfi;
+};
