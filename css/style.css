@@ -2,13 +2,12 @@ body {
     font-size: 18px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgba(19, 53, 146, 0.842);
-    background-color: black;
+    background-color: rgb(187, 151, 151);
     text-align: center;
 }
 
 hr {
     background-color: rgba(rgba(110, 87, 87, 0.747), green, blue, alpha);
-    width: 26px;
 }
 
 .classSub {
@@ -34,18 +33,45 @@ h2 {
 
 img {
     float: right;
-    align-self: auto;
+    position: fixed;
+    bottom: 600px;
+    right: 300px;
+    border: 5px bold white;
 }
 
-h2:hover {
+a:hover {
     color: red;
     border-color: blue;
 }
 
 p {
     text-align: left;
+    color: black;
 }
 
-.mainPage {
-   
+footer {
+    bottom: 50px;
 }
+
+a {
+    border: 1px double yellow;
+}
+
+ul {
+    list-style: none;
+}
+
+.experience {
+    color: red;
+    display: block;
+}
+
+.expInfo {
+    color: whitesmoke;
+    text-align: center;
+}
+
+li {
+    color: aquamarine;
+}
+
