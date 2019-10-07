@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: rgb(153, 204, 255);
+    margin: 0;
+    padding: 0;
+}
+p{
+    float: left;
+    margin-right: 26%;
+    margin-left: 26%;
+    text-align: justify;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+img{
+    float: right;
+}
+
+li{
+    color: black;
+    list-style: none;
+    display: inline; 
+}
+a{
+    color: black;
+    font-weight: bold;
+}
+.newList{
+    text-align: left;
+    margin-left: 27%;
+    
+}
+.newListE{
+    list-style: circle;
+}
+h3{
+    margin-right: 40%;
+}
