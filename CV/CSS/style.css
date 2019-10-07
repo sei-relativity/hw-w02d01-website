@@ -1,0 +1,90 @@
+html{
+    background-color: rgb(241, 241, 241);
+}
+header{
+    border-bottom: 1px dotted white;
+    border-width: 3px;
+}
+
+nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+    background-color: red;
+    font-size: 17px;
+    margin: 50px 0;   
+    word-spacing: 40px;
+   
+}
+
+nav a:hover {
+    background-color: #ddd;
+  }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+   margin: 10px 50px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+h2{
+    margin:30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+h3{
+    font-size: 20px;
+    margin: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.soft{
+    background-color: white;
+    color:red;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.opp{
+  
+    background-color: red;
+    
+}
+
+footer{
+    border-width: 3px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    background-color: red;
+    word-spacing: 40px;
+    margin: 20px;
+} 
+
+footer a:hover {
+    background-color: #ddd;
+  }
+
+  img{
+      width: 230px;
+      height: 230px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin: 50px;
+  }
