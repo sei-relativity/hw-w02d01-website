@@ -1,0 +1,56 @@
+body { 
+    background-color: peachpuff;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+	font-family: 'Parisienne', cursive;
+    font-family: 'Aclonica', sans-serif;
+    color: brown;
+}
+.nav {
+    text-align: left;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+   font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    padding: 20px;
+   font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    padding: 20px;
+   font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  }
+  
