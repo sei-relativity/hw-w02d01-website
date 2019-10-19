@@ -1,3 +1,4 @@
+/* Copy pasting, because i am lazy */
 html, body {
     max-width: 100%;
     overflow-x: hidden !important;
@@ -53,47 +54,6 @@ html, body {
   z-index: 1;
   border: 2px solid #CCD5DB;
 }
-
-aside{
-    justify-content: center;
-    text-align: center;
-    margin: 0 auto;
-    /* border: 2PX dotted turquoise;
-    background-color: yellow; */
-    width: fit-content;
-    /* padding: 30%; */
-}
-
-video{
-    width: 45%;
-    height: 45%;
-}
-.intro{
-display: inline-block;
-padding-right: 50px;
-padding-left: 40px;
-}
-
-.intro > p1 {
-    display: block;
-    padding: 0.5rem;
-    /* background-color: red; */
-}
-.intro > p2 {
-    display: block;
-    padding: 0.5rem;
-    /* background-color: seagreen; */
-}
-.intro > p3{
-    display: block;
-    padding: 0.5rem;
-    /* background-color: turquoise; */
-}
-.intro >p4{
-    display: block;
-    padding: 0.5rem;
-    /* background-color: pink; */
-}
 .socialMedia{
     /* background-color: palegreen; */
     width: fit-content;
@@ -103,3 +63,32 @@ padding-left: 40px;
     top: 50%;
 
 }
+/* Not working? */
+.vid2{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    border: 2PX dotted turquoise;
+    background-color: yellow; 
+    width: fit-content;
+    /* padding: 30%; */
+}
+/* Not working? */
+.video{
+    width: 45%;
+    height: 45%;
+    background-color: teal;
+}
+/* not working either? */
+.text-wrapper>ul>li>p{
+    color: slateblue;
+    background-color: springgreen;
+    text-align: center;   
+}
+
+/* not working? */
+.text-wrapper{
+    justify-content: center;
+    background-color: violet;
+}
+
